@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=guineaaaa&show_icons=true&hide_border=true)](https://github.com/guineaaaa)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guineaaaa&layout=compact)](https://github.com/guineaaaa)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
