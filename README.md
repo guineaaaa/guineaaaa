@@ -1,4 +1,4 @@
-### 안녕하세요 개발자 지망생 김유진 입니다! 🧑‍💻
+### 안녕하세요 김유진 입니다! 🧑‍💻
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguineaaaa)](https://hits.seeyoufarm.com)
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
