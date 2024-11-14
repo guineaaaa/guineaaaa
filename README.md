@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/guineaaaa"
-  width="600"
+  width="1200"
   height="300"
 />
 </a>
-
+<!--
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/guineaaaa"
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
     height="250"
   />
 </a>
-  
+-->
