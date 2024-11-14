@@ -27,6 +27,14 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/guineaaaa"
+  width="600"
+  height="300"
+/>
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/guineaaaa"
     width="600"
