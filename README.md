@@ -35,18 +35,6 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/guineaaaa"
-  width="1200"
-  height="300"
-/>
+  <img src="https://render.gitanimals.org/lines/guineaaaa" width="1000" height="120"/>
 </a>
-<!--
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/guineaaaa"
-    width="600"
-    height="250"
-  />
-</a>
--->
+
