@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=guineaaaa&show_icons=true&hide_border=true)](https://github.com/guineaaaa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guineaaaa&layout=compact)](https://github.com/guineaaaa)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=homeisgood)](https://solved.ac/homeisgood/)
+
 
 ### 🌱 I’m currently learning ...
 <div>
@@ -33,8 +34,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
-
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/guineaaaa" width="1000" height="120"/>
+<img
+  src="https://render.gitanimals.org/farms/guineaaaa"
+  width="600"
+  height="300"
+/>
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guineaaaa&layout=compact)](https://github.com/guineaaaa)
