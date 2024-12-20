@@ -1,5 +1,8 @@
 ### 안녕하세요 김유진 입니다!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguineaaaa)](https://hits.seeyoufarm.com)
+
+<hr>
+
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +21,7 @@ Here are some ideas to get you started:
 [![github stats](https://github-readme-stats.vercel.app/api?username=guineaaaa&show_icons=true&hide_border=true)](https://github.com/guineaaaa)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=homeisgood)](https://solved.ac/homeisgood/)
 
+<hr>
 
 ### 🌱 I’m currently learning ...
 <div>
