@@ -1,4 +1,4 @@
-### 안녕하세요 김유진 입니다
+### 안녕하세요 김유진 입니다!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguineaaaa)](https://hits.seeyoufarm.com)
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
+<hr>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/guineaaaa"
