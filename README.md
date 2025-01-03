@@ -1,6 +1,4 @@
 ### 안녕하세요 김유진 입니다!
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguineaaaa)](https://hits.seeyoufarm.com)
-
 <hr>
 
 <!--
