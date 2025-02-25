@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 - 2023.03 서경대학교 소프트웨어학과 입학
 - 2024.03 - 2024.08 대학생 연합 동아리 UMC 6기 WEB 수료: TRAVELMATE
 - 2024.09 - 2025.02 대학생 연합 동아리 UMC 7기 Node.js 수료: 공각심
-- 2024학년도 1학기, 2학기(차석) 성적 우수 장학생 선발
+- 2024학년도 1학기, 2학기(차석) 성적 우수 장학생
+- 2025학년도 1학기 성적 우수 장학생
+
 #### 😄 공부하고 있는 기술 스택 (I’m currently learning ...)
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
