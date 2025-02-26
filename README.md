@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 </a>
 
 #### 🌱 Experience
-- 2023.03 - Seokyeong University - Computer Science 
-- 2024.03 - 2024.08 UMC(UNIVERSITY MAKEUS CHALLENGE) 6TH WEB Track
-- 2024.09 - 2025.02 UMC(UNIVERSITY MAKEUS CHALLENGE) 7TH Node.js Track
+- 2023.03 - present Seokyeong University - Computer Science 
+- 2024.03 - 2024.08 UMC(UNIVERSITY MAKEUS CHALLENGE) 6TH WEB 
+- 2024.09 - 2025.02 UMC(UNIVERSITY MAKEUS CHALLENGE) 7TH Node.js 
 - Academic Excellence Scholarship for the 1st and 2nd semesters of the 2024 academic year 
 - Academic Excellence Scholarship for the 1st semester of the 2025 academic year
 
-#### 🔨 I’m currently learning ...
+#### 😄 I’m currently learning ...
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
