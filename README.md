@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 [![github stats](https://github-readme-stats.vercel.app/api?username=guineaaaa&show_icons=true&hide_border=true)](https://github.com/guineaaaa)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=homeisgood)](https://solved.ac/homeisgood/)
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/guineaaaa"
-  width="600"
-  height="300"
-/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/687903413394822973/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 
 #### 🌱 Experience
 - 2023.03 - present Seokyeong University - Computer Science 
