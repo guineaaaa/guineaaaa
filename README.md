@@ -1,3 +1,7 @@
+<div align = "center">
+ <a href="https://codesomethingcool.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+ <a href="hahaha@skuniv.ac.kr/"><img src="https://img.shields.io/badge/gmail-000000?style=flat&logo=gmail&logoColor=white"/></a>
+</div>
 
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
