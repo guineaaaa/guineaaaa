@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - `2024.03 - 2024.08` UMC(UNIVERSITY MAKEUS CHALLENGE) 6TH WEB 
 - `2024.09 - 2025.02` UMC(UNIVERSITY MAKEUS CHALLENGE) 7TH Node.js 
 - `2024` Academic Excellence Scholarship for the `1st` and `2nd` semesters  
-- `2025` Academic Excellence Scholarship for the `1st` semester 
+- `2025` Academic Excellence Scholarship for the `1st` and `2nd` semesters  
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="60" height="60" /> I'm currently learning...
 <div>
