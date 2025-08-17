@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="45" height="45" /> Experience
-- `2023.03 - present` Seokyeong University - Computer Science 
-- `2024.03 - 2024.08` UMC(UNIVERSITY MAKEUS CHALLENGE) 6TH WEB 
-- `2024.09 - 2025.02` UMC(UNIVERSITY MAKEUS CHALLENGE) 7TH Node.js 
+- `2023.03 - present` Computer Science 
+- `2024.03 - 2024.08` UMC(UNIVERSITY MAKEUS CHALLENGE) 6TH WEB - TravelMate
+- `2024.09 - 2025.02` UMC(UNIVERSITY MAKEUS CHALLENGE) 7TH Node.js - Gonggaksim
 - `2024` Academic Excellence Scholarship for the `1st` and `2nd` semesters  
 - `2025` Academic Excellence Scholarship for the `1st` and `2nd` semesters  
 
